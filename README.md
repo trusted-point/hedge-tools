@@ -1,4 +1,4 @@
-[<img src='assets\Hedge-Banner.png' alt='banner' width= '99.9%'>]()
+[<img src='assets\hedge-banner.png' alt='banner' width= '99.9%'>]()
 
 <font size = 7><center><b><u>About Hedge Blockchain</u></b></center></font>
 
